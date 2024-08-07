@@ -1,0 +1,2 @@
+# Dynamic Programming, Maximize Profits For Cafe
+This project was done as a group project for my Algorithms class but I was the sole coder. The abstract idea is that we use a 2-dimensional implementation of Kadane's algorithm to find the optimal parcel on the campus to open a cafe according to poll results from students as to would they frequent a cafe in the given parcel. So basically poll result matrix -> the center of the maximum sum sub-matrix.

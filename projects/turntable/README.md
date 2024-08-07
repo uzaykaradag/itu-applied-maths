@@ -1,0 +1,2 @@
+# Turntable, Music Recommendation System
+This project was done as the term project for the Intro. to Data Science Class. We built a music recommendation system based on the tag data we got from last.fm and used K-Means to group artists into clusters and built a recommendation algorithm which account for both the cluster and listener count of the user's input to recommend a total of 5 similar artists.
